@@ -1,4 +1,4 @@
-<h1><b>Git Guide for Beginners</b></h1>
+<h1><b>Git Study</b></h1>
 
 <h3>Git is a widely used distributed version control system in the software development community. It allows developers to work together on projects, managing changes to the code efficiently and recording the history of these changes. In this tutorial, we will learn how to use Git to manage a project in the Git Study Hub Repository.</h3><br>
 
